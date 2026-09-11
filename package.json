@@ -39,6 +39,6 @@
     "autoprefixer": "^10.4.16",
     "jsdom": "^29.1.1",
     "postcss": "^8.4.32",
-    "vitest": "^4.1.9"
+    "vitest": "^4.1.11"
   }
 }
